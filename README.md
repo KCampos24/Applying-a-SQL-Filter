@@ -1,7 +1,5 @@
 <h1>Applying Filters in SQL Queries</h1>
 
-### [YouTube Demonstration](https://youtu.be/your_youtube_link_here)
-
 <h2>Description</h2>
 This repository demonstrates how to apply filters to SQL queries using operators such as <code>AND</code>, <code>OR</code>, and <code>NOT</code>. These operators are crucial for constructing complex queries to retrieve data efficiently and enhance the security of organizational systems. Below are examples of using these operators in various scenarios:
 
